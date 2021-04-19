@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\bin\Debug\net5.0\DefaultAgurmenteSampe.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\bin\Debug\net5.0\DefaultAgurmenteSampe.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\bin\Debug\net5.0\DefaultAgurmenteSampe.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\bin\Debug\net5.0\DefaultAgurmenteSampe.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\bin\Debug\net5.0\DefaultAgurmenteSampe.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\bin\Debug\net5.0\ref\DefaultAgurmenteSampe.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\bin\Debug\net5.0\DefaultAgurmenteSampe.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\obj\Debug\net5.0\DefaultAgurmenteSampe.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\obj\Debug\net5.0\DefaultAgurmenteSampe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\obj\Debug\net5.0\DefaultAgurmenteSampe.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\obj\Debug\net5.0\DefaultAgurmenteSampe.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\obj\Debug\net5.0\DefaultAgurmenteSampe.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\obj\Debug\net5.0\DefaultAgurmenteSampe.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\obj\Debug\net5.0\ref\DefaultAgurmenteSampe.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\obj\Debug\net5.0\DefaultAgurmenteSampe.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DefaultAgurmenteSampe\obj\Debug\net5.0\DefaultAgurmenteSampe.genruntimeconfig.cache
