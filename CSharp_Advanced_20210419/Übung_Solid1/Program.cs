@@ -11,7 +11,7 @@ namespace Übung_Solid1
     }
 
 
-    public class Employee
+    public class BadEmployee
     {
         public int Employee_Id { get; set; }
         public string Employee_Name { get; set; }
@@ -32,7 +32,7 @@ namespace Übung_Solid1
         /// Method to generate report
         /// </summary>
         /// <param name="em"></param>
-        
+
 
         public void GenerateReport(Employee em)
         {
@@ -46,4 +46,59 @@ namespace Übung_Solid1
             }
         }
     }
+
+    public interface IEmployee
+    {
+        public int Employee_Id { get; set; }
+        public string Employee_Name { get; set; }
+    }
+
+    public class Employee : IEmployee
+    {
+        public int Employee_Id { get; set; }
+        public string Employee_Name { get; set; }
+    }
+
+
+
+
+
+
+
+
+    public class EmployeeRepository
+    {
+        public bool InsertIntoEmployeeTable(IEmployee em)
+        {
+            // Insert into employee table.
+            return true;
+        }
+    }
+
+    public abstract class Reports
+    {
+        public abstract void GenerateReport(IEmployee employee);
+    }
+    public interface IReports
+    {
+        void GenerateReport(IEmployee employee);
+    }
+    public class CrystalReports : Reports //IReports (Alternative) 
+    {
+        public override void GenerateReport(IEmployee employee)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    public class PDFReports : Reports //IReports (Alternative) 
+    {
+        public override void GenerateReport(IEmployee employee)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+
+
 }

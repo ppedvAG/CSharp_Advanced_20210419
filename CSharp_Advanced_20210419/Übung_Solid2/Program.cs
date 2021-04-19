@@ -12,7 +12,7 @@ namespace Übung_Solid2
 
 
     #region Bad Sample
-    public class Email
+    public class BadEmail
     {
         public void SendEmail()
         {
@@ -20,14 +20,49 @@ namespace Übung_Solid2
         }
     }
 
-    public class Notification
+    public class BadNotification
     {
-        private Email _email;
-        public Notification()
+        private BadEmail _email;
+        public BadNotification()
         {
-            _email = new Email();
+            _email = new BadEmail();
         }
 
+        public void PromotionalNotification()
+        {
+            _email.SendEmail();
+        }
+    }
+    #endregion
+
+
+    #region 
+
+    public interface IEmail
+    {
+        void SendEmail();
+    }
+    public class Email : IEmail
+    {
+        public void SendEmail()
+        {
+            // code to send Email
+        }
+    }
+
+    public interface INotification
+    {
+        void PromotionalNotification();
+    }
+
+    public class Notification : INotification
+    {
+        private IEmail _email;
+        
+        public Notification(IEmail email)
+        {
+            _email = email;
+        }
         public void PromotionalNotification()
         {
             _email.SendEmail();
