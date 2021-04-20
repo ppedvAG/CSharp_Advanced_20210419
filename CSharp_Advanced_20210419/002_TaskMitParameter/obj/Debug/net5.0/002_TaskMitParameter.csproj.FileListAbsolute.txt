@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\bin\Debug\net5.0\002_TaskMitParameter.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\bin\Debug\net5.0\002_TaskMitParameter.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\bin\Debug\net5.0\002_TaskMitParameter.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\bin\Debug\net5.0\002_TaskMitParameter.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\bin\Debug\net5.0\002_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\bin\Debug\net5.0\ref\002_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\bin\Debug\net5.0\002_TaskMitParameter.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\obj\Debug\net5.0\002_TaskMitParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\obj\Debug\net5.0\002_TaskMitParameter.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\obj\Debug\net5.0\002_TaskMitParameter.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\obj\Debug\net5.0\002_TaskMitParameter.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\obj\Debug\net5.0\002_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\obj\Debug\net5.0\ref\002_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\obj\Debug\net5.0\002_TaskMitParameter.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\obj\Debug\net5.0\002_TaskMitParameter.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\002_TaskMitParameter\obj\Debug\net5.0\002_TaskMitParameter.csprojAssemblyReference.cache

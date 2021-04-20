@@ -32,7 +32,7 @@ namespace CSharp90
             else
                 Console.WriteLine("person != person1");
 
-            Console.WriteLine($"In REcords ist die Funktonalität GetHashCode per Default ausimplementiert. {person.GetHashCode}");
+            Console.WriteLine($"In REcords ist die Funktonalität GetHashCode per Default ausimplementiert. {person.GetHashCode().ToString()}");
 
             //Flache Kopie + Neu Initialisierung für Name z.b 
             Person brother = person with { Name = "Andreas" }; // Ist auch Init-Konform 

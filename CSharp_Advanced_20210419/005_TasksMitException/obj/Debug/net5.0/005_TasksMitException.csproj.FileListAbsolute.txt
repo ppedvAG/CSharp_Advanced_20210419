@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\bin\Debug\net5.0\005_TasksMitException.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\bin\Debug\net5.0\005_TasksMitException.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\bin\Debug\net5.0\005_TasksMitException.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\bin\Debug\net5.0\005_TasksMitException.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\bin\Debug\net5.0\005_TasksMitException.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\bin\Debug\net5.0\ref\005_TasksMitException.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\bin\Debug\net5.0\005_TasksMitException.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\obj\Debug\net5.0\005_TasksMitException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\obj\Debug\net5.0\005_TasksMitException.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\obj\Debug\net5.0\005_TasksMitException.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\obj\Debug\net5.0\005_TasksMitException.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\obj\Debug\net5.0\005_TasksMitException.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\obj\Debug\net5.0\ref\005_TasksMitException.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\obj\Debug\net5.0\005_TasksMitException.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\005_TasksMitException\obj\Debug\net5.0\005_TasksMitException.genruntimeconfig.cache

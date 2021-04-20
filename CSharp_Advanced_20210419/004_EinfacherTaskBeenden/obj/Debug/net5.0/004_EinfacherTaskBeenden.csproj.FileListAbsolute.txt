@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\bin\Debug\net5.0\004_EinfacherTaskBeenden.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\bin\Debug\net5.0\004_EinfacherTaskBeenden.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\bin\Debug\net5.0\004_EinfacherTaskBeenden.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\bin\Debug\net5.0\004_EinfacherTaskBeenden.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\bin\Debug\net5.0\004_EinfacherTaskBeenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\bin\Debug\net5.0\ref\004_EinfacherTaskBeenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\bin\Debug\net5.0\004_EinfacherTaskBeenden.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\obj\Debug\net5.0\004_EinfacherTaskBeenden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\obj\Debug\net5.0\004_EinfacherTaskBeenden.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\obj\Debug\net5.0\004_EinfacherTaskBeenden.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\obj\Debug\net5.0\004_EinfacherTaskBeenden.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\obj\Debug\net5.0\004_EinfacherTaskBeenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\obj\Debug\net5.0\ref\004_EinfacherTaskBeenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\obj\Debug\net5.0\004_EinfacherTaskBeenden.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\004_EinfacherTaskBeenden\obj\Debug\net5.0\004_EinfacherTaskBeenden.genruntimeconfig.cache

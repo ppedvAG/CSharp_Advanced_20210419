@@ -21,7 +21,6 @@ C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\StringBuilde
 C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\StringBuilderBenchmarkDemo\bin\Debug\net5.0\StringBuilderBenchmarkDemo.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\StringBuilderBenchmarkDemo\bin\Debug\net5.0\ref\StringBuilderBenchmarkDemo.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\StringBuilderBenchmarkDemo\bin\Debug\net5.0\StringBuilderBenchmarkDemo.pdb
-C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\StringBuilderBenchmarkDemo\obj\Debug\net5.0\StringBuilderBenchmarkDemo.csprojAssemblyReference.cache
 C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\StringBuilderBenchmarkDemo\obj\Debug\net5.0\StringBuilderBenchmarkDemo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\StringBuilderBenchmarkDemo\obj\Debug\net5.0\StringBuilderBenchmarkDemo.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\StringBuilderBenchmarkDemo\obj\Debug\net5.0\StringBuilderBenchmarkDemo.AssemblyInfo.cs

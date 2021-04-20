@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\bin\Debug\net5.0\ref\Dependency_Inversion.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\obj\Debug\net5.0\ref\Dependency_Inversion.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.genruntimeconfig.cache

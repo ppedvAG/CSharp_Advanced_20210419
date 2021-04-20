@@ -17,7 +17,7 @@ namespace StringBuilderBenchmarkDemo
 
             for (int i = 0; i < 10000; i++)
             {
-                aufbauenderString += i.ToString();
+                aufbauenderString += i.ToString(); //Performance - Killer! 
 
 
                 //1.) Erstelle neuen String-Speicherplatz mit der neuen größe

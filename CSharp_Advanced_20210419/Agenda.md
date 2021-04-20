@@ -1,14 +1,14 @@
 Montag:
 
-- [ ] C# 7.0 -> 9.0 
-- [ ] Solid 
-- [ ] Benchmark StringBuilder vs +-Operator (bei strings)
+- [x] C# 7.0 -> 9.0 
+- [x] Solid 
+- [x] Benchmark StringBuilder vs +-Operator (bei strings)
 
 
 
 Dienstag:
-- [ ] Threading (fertig) 
-- [ ] TPL (fertig)
+- [x] Threading (fertig) 
+- [x] TPL (fertig)
 - [ ] async / await (fertig) 
 - [ ] Generics (fertig)
 
@@ -24,3 +24,8 @@ Mittwoch:
 - [ ] Serialisierung (fertig)
 - [ ] Erweiterungsmethoden  (fertig) 
 - [ ] Operatoren
+
+
+### Link - Collection
+
+https://docs.microsoft.com/de-de/dotnet/standard/parallel-programming/chaining-tasks-by-using-continuation-tasks

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SingleResponsibility_Princip/1.0.0": {
+        "runtime": {
+          "SingleResponsibility_Princip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SingleResponsibility_Princip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
