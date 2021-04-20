@@ -9,8 +9,8 @@ Montag:
 Dienstag:
 - [x] Threading (fertig) 
 - [x] TPL (fertig)
-- [ ] async / await (fertig) 
-- [ ] Generics (fertig)
+- [x] async / await (fertig) 
+- [x] Generics (fertig)
 
 
 

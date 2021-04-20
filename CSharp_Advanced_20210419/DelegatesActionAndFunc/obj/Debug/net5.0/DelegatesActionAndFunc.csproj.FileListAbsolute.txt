@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\obj\Debug\net5.0\DelegatesActionAndFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\obj\Debug\net5.0\DelegatesActionAndFunc.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\obj\Debug\net5.0\DelegatesActionAndFunc.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\obj\Debug\net5.0\DelegatesActionAndFunc.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\bin\Debug\net5.0\DelegatesActionAndFunc.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\bin\Debug\net5.0\DelegatesActionAndFunc.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\bin\Debug\net5.0\DelegatesActionAndFunc.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\bin\Debug\net5.0\DelegatesActionAndFunc.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\bin\Debug\net5.0\DelegatesActionAndFunc.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\bin\Debug\net5.0\ref\DelegatesActionAndFunc.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\bin\Debug\net5.0\DelegatesActionAndFunc.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\obj\Debug\net5.0\DelegatesActionAndFunc.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\obj\Debug\net5.0\ref\DelegatesActionAndFunc.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\obj\Debug\net5.0\DelegatesActionAndFunc.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210419\CSharp_Advanced_20210419\DelegatesActionAndFunc\obj\Debug\net5.0\DelegatesActionAndFunc.genruntimeconfig.cache

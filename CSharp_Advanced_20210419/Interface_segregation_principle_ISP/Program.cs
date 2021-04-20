@@ -9,7 +9,10 @@ namespace Interface_segregation_principle_ISP
         static void Main(string[] args)
         {
             IReadonlyRepository readonlyRep = new EmployeeRepository(); //alle lesbaren
+            
             IRepository repository = new EmployeeRepository(); //Alle Methoden sind enthalten
+
+            
         }
     }
 

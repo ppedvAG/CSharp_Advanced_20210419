@@ -54,20 +54,29 @@ namespace Generic_Lab
     //public abstract class RepositoryBase<TEntity, TKey> : IRepositoryBase<TEntity, TKey> where TEntity : class
     public abstract class PersonStatistics<T> : IPersonStatistik<T> where T : Person
     {
-        //abstrakte Methode 
+        public abstract void ShowStatistk(T Person);
     }
-
     public class FinishEmployeeStatistics : PersonStatistics<Employee>
     {
-        //abstracte Methode wird hier überschrieben
+        public override void ShowStatistk(Employee Person)
+        {
+        }
+    }
 
-        // + EmployeeSeit - Methode
+
+    public class FinishEmployeeStatisticsB : IPersonStatistik<Employee>
+    {
+        public void ShowStatistk(Employee Person)
+        {
+           //Mach was
+        }
     }
     public class FinishFreelancerStatistics : PersonStatistics<Freelancer>
     {
-        //abstracte Methode wird hier überschrieben
+        public override void ShowStatistk(Freelancer Person)
+        {
 
-        //+ AktuellesProjekt -Methode
+        }
     }
     #endregion
 
