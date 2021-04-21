@@ -29,10 +29,11 @@ namespace DelegateWithCallback
         {
             //Logik die etwas dauern kann. 
 
+            //Callback wird immer zum schluss aufgerufen.
             callback("The Number is: " + (param1 + param2).ToString());
         }
 
-
+        //Wenn Verarbeitung fertig ist, ruft der Callback diese Methode auf
         public static void DelegateMthod(string message)
         {
             Console.WriteLine(message);

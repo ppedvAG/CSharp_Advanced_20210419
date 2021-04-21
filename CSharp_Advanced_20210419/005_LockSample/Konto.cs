@@ -23,7 +23,6 @@ namespace _005_LockSample
                     Kontostand += betrag;
                     Console.WriteLine($"Kontostand nach dem Einzahlen: {Kontostand}");
                 }
-
             }
             catch(Exception ex)
             {

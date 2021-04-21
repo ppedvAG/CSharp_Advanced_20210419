@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Data.SqlClient;
 
 namespace AsyncAwaitSample
 {
@@ -41,6 +42,18 @@ namespace AsyncAwaitSample
         public static string MethodeMitReturnwert()
         {
             return DateTime.Now.ToString();
+        }
+
+
+
+        public static async Task DBConnection ()
+        {
+            string sqlString = "abc";
+            SqlConnection sqlCon = new SqlConnection(sqlString);
+
+            await sqlCon.OpenAsync();
+
+
         }
     }
 }

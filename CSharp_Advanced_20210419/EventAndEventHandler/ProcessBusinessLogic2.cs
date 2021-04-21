@@ -17,8 +17,6 @@ namespace EventAndEventHandler
         {
             Console.WriteLine("Process Started!");
 
-
-
             MyEventArg myEventArg = new MyEventArg();
             myEventArg.Uhrzeit = DateTime.Now;
 

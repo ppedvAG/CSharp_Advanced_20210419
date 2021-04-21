@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Threading.Tasks;
+using System.Threading;
 
 namespace EventAndEventHandler
 {
@@ -8,7 +10,10 @@ namespace EventAndEventHandler
         {
             ProcessBusinessLogic pbl = new ProcessBusinessLogic();
             pbl.ProcessCompleted += Pbl_ProcessCompleted;
-            pbl.StartProcess();
+            pbl.ProcessInWorking += Pbl_ProcessInWorking;
+
+
+            Task myTask = Task.Run(pbl.StartProcess);
 
 
 
@@ -16,6 +21,13 @@ namespace EventAndEventHandler
             pbl2.ProcessCompleted += Pbl2_ProcessCompleted;
             pbl2.ProcessCompletedNew += Pbl2_ProcessCompletedNew;
             pbl2.StartProcess();
+
+
+        }
+
+        private static void Pbl_ProcessInWorking(int processBarValue)
+        {
+            Console.WriteLine($"Aktuelle Prozentzahl: {processBarValue}");
         }
 
         private static void Pbl2_ProcessCompletedNew(object sender, EventArgs e)

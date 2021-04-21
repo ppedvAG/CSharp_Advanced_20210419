@@ -24,7 +24,7 @@ namespace MutexSample_ProgrammInstance
         {
             try
             {
-                Mutex.OpenExisting("ABC");
+                Mutex.OpenExisting("ABC"); //Beim ersten Durchlauf, wird der Eintrag ABC nicht gefunden -> Fehler wird geschnmissen -> neues Mutex wird initialisiert
             }
             catch
             {

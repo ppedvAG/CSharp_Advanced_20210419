@@ -12,7 +12,7 @@ namespace TaskContinueSample
             {
                 Console.WriteLine("Task 1 ist gestartet");
                 Thread.Sleep(800);
-                throw new Exception();
+                //throw new Exception();
             });
 
             t1.Start();

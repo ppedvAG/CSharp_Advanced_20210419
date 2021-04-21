@@ -38,7 +38,7 @@ public class CancellationExample
                 }
 
                 return product33.ToArray();
-            }, token);
+            }, token); //token ist für ersten Aufruf
 
         Task<double> continuation = task.ContinueWith(
             async antecedent =>

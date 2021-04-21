@@ -9,7 +9,7 @@ namespace TaskErgebnisAnContinueTaskÜbergeben
         {
             Task<string> task = Task.Run(DayTime);
 
-            task.Wait();
+            //task.Wait();
             task.ContinueWith(abc => ShowDayTime(abc.Result), TaskContinuationOptions.OnlyOnRanToCompletion);
             task.ContinueWith(task => ForErrorHandling(), TaskContinuationOptions.OnlyOnFaulted);
             Console.ReadLine();
