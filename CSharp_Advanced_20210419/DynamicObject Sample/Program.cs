@@ -11,7 +11,7 @@ namespace DynamicObject_Sample
 
             dynamicObject.Haribo = "abc";
             dynamicObject.alksjdbflkjasdfbjk = 123123123;
-
+             
             
 
             Console.WriteLine(dynamicObject.Haribo);

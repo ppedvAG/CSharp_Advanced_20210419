@@ -1,3 +1,7 @@
+Trainer: Kevin Winter
+Email: KevinW@ppedv.de
+
+
 Montag:
 
 - [x] C# 7.0 -> 9.0 
@@ -19,9 +23,9 @@ Dienstag:
 Mittwoch: 
 - [x] Reflections (fertig)
 - [x] Plugin-Pattern (fertig) 
-- [ ] Linq / Lambda (fertig)
-- [ ] Anonyme Typen + dynamische Typen (fertig)
-- [ ] Serialisierung (fertig)
+- [x] Serialisierung (fertig)
+- [x] Linq / Lambda (fertig) 
+- [x] Anonyme Typen + dynamische Typen (fertig)
 - [ ] Erweiterungsmethoden  (fertig) 
 - [ ] Operatoren
 
@@ -56,3 +60,22 @@ Design Pattern:
 Offen Fragen:
 
 TPL mit WinForms
+
+
+Attribute ->DataAnnotations
+EF Core (Code First) -> In den Models werden Attribute in Form von DataAnnotations verwendet. 
+https://entityframeworkcore.com/model-data-annotations
+
+
+
+Linq 101 Samples:
+(online)
+https://linqsamples.com/
+
+(repository für offline)
+https://github.com/dotnet/try-samples/tree/main/101-linq-samples/src
+
+
+Design Pattern -> https://www.bol.de/shop/home/artikeldetails/ID106524554.html?utm_source=css&utm_medium=sea&utm_campaign=guenstiger_google_shopping&ProvID=11015585
+
+Repository zu Buch: https://github.com/Apress/design-patterns-c-sharp
